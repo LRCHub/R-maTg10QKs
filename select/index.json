@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ソラゴト",
+  "base_artist": "明透",
+  "createdAt": "2025-12-05T12:29:43.036894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ソラゴト",
+      "artist": "明透",
+      "has_synced": true,
+      "path": "select/01_ソラゴト_明透.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ソラゴト - Piano arr.",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/02_ソラゴト_-_Piano_arr._明透.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ソラゴト",
+      "artist": "明透",
+      "has_synced": true,
+      "path": "select/03_ソラゴト_明透.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ソラゴト - Piano arr. -",
+      "artist": "asu",
+      "has_synced": false,
+      "path": "select/04_ソラゴト_-_Piano_arr._-_asu.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ソラゴト - Piano arr. -",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/05_ソラゴト_-_Piano_arr._-_明透.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ソラゴト",
+      "artist": "ASU",
+      "has_synced": true,
+      "path": "select/06_ソラゴト_ASU.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ソラゴト",
+      "artist": "明透",
+      "has_synced": false,
+      "path": "select/pl_01_ソラゴト_明透.txt"
+    }
+  ]
+}
